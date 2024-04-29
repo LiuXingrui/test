@@ -1,0 +1,49 @@
+ 0.0012207 8192 8182 # ./parityChecks/rot_surf_Hx_d3.mtx
+ 
+Running with useP = 0.01
+ 0.00292969 4096 4084 # ./parityChecks/rot_surf_Hx_d3.mtx
+
+real	0m0.015s
+user	0m0.012s
+sys	0m0.001s
+Running with useP = 0.02
+ 0.00683594 2048 2034 # ./parityChecks/rot_surf_Hx_d3.mtx
+
+real	0m0.016s
+user	0m0.010s
+sys	0m0.004s
+Running with useP = 0.03
+ 0.015625 1024 1008 # ./parityChecks/rot_surf_Hx_d3.mtx
+
+real	0m0.010s
+user	0m0.004s
+sys	0m0.005s
+Running with useP = 0.04
+ 0.0224609 1024 1001 # ./parityChecks/rot_surf_Hx_d3.mtx
+
+real	0m0.017s
+user	0m0.004s
+sys	0m0.013s
+Running with useP = 0.05
+ 0.0292969 1024 994 # ./parityChecks/rot_surf_Hx_d3.mtx
+
+real	0m0.010s
+user	0m0.008s
+sys	0m0.000s
+Running with useP = 0.01
+ 0 1024 1024 # ./parityChecks/rot_surf_Hx_d7.mtx
+
+real	0m0.016s
+user	0m0.014s
+sys	0m0.000s
+Running with useP = 0.01
+ 9.76563e-05 10240 10239 # ./parityChecks/rot_surf_Hx_d7.mtx
+
+real	0m0.059s
+user	0m0.053s
+sys	0m0.005s
+Running with useP = 0.01  0 10240 10240 # ./parityChecks/rot_surf_Hx_d7.mtx
+
+real	0m0.082s
+user	0m0.030s
+sys	0m0.020s

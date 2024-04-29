@@ -1,0 +1,12 @@
+ 0.181  0.272461 1024 745 # ./parityChecks/rot_surf_Hx_d3.mtx
+ 0.128  0.175781 1024 844 # ./parityChecks/rot_surf_Hx_d3.mtx
+ 0.090496  0.109375 1024 912 # ./parityChecks/rot_surf_Hx_d3.mtx
+ 0.064  0.0712891 2048 1902 # ./parityChecks/rot_surf_Hx_d3.mtx
+ 0.045249  0.0280762 4096 3981 # ./parityChecks/rot_surf_Hx_d3.mtx
+ 0.032  0.016183 7168 7052 # ./parityChecks/rot_surf_Hx_d3.mtx
+ 0.022624  0.00788762 13312 13207 # ./parityChecks/rot_surf_Hx_d3.mtx
+ 0.016  0.00439453 24576 24468 # ./parityChecks/rot_surf_Hx_d3.mtx
+ 0.011312  0.0023484 43008 42907 # ./parityChecks/rot_surf_Hx_d3.mtx
+ 0.008  0.00119093 83968 83868 # ./parityChecks/rot_surf_Hx_d3.mtx
+ 0.005656  0.000610352 163840 163740 # ./parityChecks/rot_surf_Hx_d3.mtx
+ 0.004  0.000342654 291840 291740 # ./parityChecks/rot_surf_Hx_d3.mtx

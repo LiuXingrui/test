@@ -1,0 +1,25 @@
+Running with useP = 0.004  0.000378667 100352 100314 # ./parityChecks/rot_surf_Hx_d3.mtx
+  Time taken: 0.07 seconds
+Running with useP = 0.005656  0.00062779 100352 100289 # ./parityChecks/rot_surf_Hx_d3.mtx
+  Time taken: 0.07 seconds
+Running with useP = 0.008  0.00122975 82944 82842 # ./parityChecks/rot_surf_Hx_d3.mtx
+  Time taken: 0.06 seconds
+Running with useP = 0.011312  0.00217014 46080 45980 # ./parityChecks/rot_surf_Hx_d3.mtx
+  Time taken: 0.04 seconds
+Running with useP = 0.016  0.00379357 26624 26523 # ./parityChecks/rot_surf_Hx_d3.mtx
+  Time taken: 0.03 seconds
+Running with useP = 0.022624  0.0082194 12288 12187 # ./parityChecks/rot_surf_Hx_d3.mtx
+  Time taken: 0.02 seconds
+Running with useP = 0.032  0.015346 7168 7058 # ./parityChecks/rot_surf_Hx_d3.mtx
+  Time taken: 0.01 seconds
+Running with useP = 0.045249  0.0270996 4096 3985 # ./parityChecks/rot_surf_Hx_d3.mtx
+  Time taken: 0.01 seconds
+Running with useP = 0.064  0.0522461 2048 1941 # ./parityChecks/rot_surf_Hx_d3.mtx
+  Time taken: 0.01 seconds
+Running with useP = 0.090496  0.108398 1024 913 # ./parityChecks/rot_surf_Hx_d3.mtx
+  Time taken: 0.01 seconds
+Running with useP = 0.128  0.180664 1024 839 # ./parityChecks/rot_surf_Hx_d3.mtx
+  Time taken: 0.01 seconds
+Running with useP = 0.181  0.277344 1024 740 # ./parityChecks/rot_surf_Hx_d3.mtx
+  Time taken: 0.01 seconds
+0.004 0.005656 0.008 0.011312 0.016 0.022624 0.032 0.045249 0.064 0.090496 0.128 0.181 
