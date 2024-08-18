@@ -10,4 +10,16 @@
   0.008  0.000198488 503808 503708 # ./parityChecks/GB_26_w8_X.mtx
   0.005656  7.8565e-05 1272832 1272732 # ./parityChecks/GB_26_w8_X.mtx
   0.004  2.53192e-05 3949568 3949468 # ./parityChecks/GB_26_w8_X.mtx
+  0.181  0.59375 1024 416 # ./parityChecks/GB_26_w8_X.mtx
+  0.128  0.380859 1024 634 # ./parityChecks/GB_26_w8_X.mtx
+  0.090496  0.165039 1024 855 # ./parityChecks/GB_26_w8_X.mtx
+  0.064  0.0859375 2048 1872 # ./parityChecks/GB_26_w8_X.mtx
+  0.045249  0.038737 3072 2953 # ./parityChecks/GB_26_w8_X.mtx
+  0.032  0.0143694 7168 7065 # ./parityChecks/GB_26_w8_X.mtx
+  0.022624  0.00517578 20480 20374 # ./parityChecks/GB_26_w8_X.mtx
+  0.016  0.00184257 54272 54172 # ./parityChecks/GB_26_w8_X.mtx
+  0.011312  0.00063004 158720 158620 # ./parityChecks/GB_26_w8_X.mtx
+  0.008  0.000214629 465920 465820 # ./parityChecks/GB_26_w8_X.mtx
+  0.005656  7.38701e-05 1353728 1353628 # ./parityChecks/GB_26_w8_X.mtx
+  0.004  2.43471e-05 4107264 4107164 # ./parityChecks/GB_26_w8_X.mtx
   

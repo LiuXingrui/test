@@ -1,11 +1,10 @@
-0.181  0.654297 1024 354 # ./parityChecks/GB_58_w8_X.mtx
-  0.128  0.386719 1024 628 # ./parityChecks/GB_58_w8_X.mtx
-  0.090496  0.166992 1024 853 # ./parityChecks/GB_58_w8_X.mtx
-  0.064  0.0426432 3072 2941 # ./parityChecks/GB_58_w8_X.mtx
-  0.045249  0.0109592 9216 9115 # ./parityChecks/GB_58_w8_X.mtx
-  0.032  0.00167174 60416 60315 # ./parityChecks/GB_58_w8_X.mtx
-  0.022624  0.000287224 348160 348060 # ./parityChecks/GB_58_w8_X.mtx
-  0.016  4.00067e-05 2499584 2499484 # ./parityChecks/GB_58_w8_X.mtx
-  0.011312   0.008   0.005656  -nan 0 0 # ./parityChecks/GB_58_w8_X.mtx
-  0.004  -nan 0 0 # ./parityChecks/GB_58_w8_X.mtx
-  
+0.181  0.673828 1024 334 # ./parityChecks/GB_58_w8_X.mtx
+  0.128  0.431641 1024 582 # ./parityChecks/GB_58_w8_X.mtx
+  0.090496  0.1875 1024 832 # ./parityChecks/GB_58_w8_X.mtx
+  0.064  0.0439453 3072 2937 # ./parityChecks/GB_58_w8_X.mtx
+  0.045249  0.0090554 11264 11162 # ./parityChecks/GB_58_w8_X.mtx
+  0.032  0.0015625 66560 66456 # ./parityChecks/GB_58_w8_X.mtx
+  0.022624  0.00031002 322560 322460 # ./parityChecks/GB_58_w8_X.mtx
+  0.016  5.07569e-05 1970176 1970076 # ./parityChecks/GB_58_w8_X.mtx
+  0.011312  7.20657e-06 13876224 13876124 # ./parityChecks/GB_58_w8_X.mtx
+  0.008   0.005656   0.004   
